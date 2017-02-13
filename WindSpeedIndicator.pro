@@ -5,7 +5,7 @@ QT       += core gui
 QT += widgets
 
 TEMPLATE = app
-TARGET = WeatherStation
+TARGET = WindSpeedIndicator
 INCLUDEPATH += .
 INCLUDEPATH += ../qwt-6.1.3/src
 
